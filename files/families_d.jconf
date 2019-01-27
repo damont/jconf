@@ -1,0 +1,26 @@
+{
+	"husband" : "john",
+	"wife" : "doe",
+	"children" : 
+	[
+		{
+			"name" : "kiddo",
+			"age" : 1
+		},
+		{
+			"name" : "kiddo2",
+			"age" : 2
+		},
+		{
+			"name" : "kiddo3",
+			"age" : 3
+		}
+	],
+	"retirement" :
+	{
+		"location" : "New Orleans",
+		"money" : true
+	},
+	"house" : true,
+	"hobbies" : ["programming", "wood-working"]
+}

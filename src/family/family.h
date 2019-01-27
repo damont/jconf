@@ -1,0 +1,1 @@
+	deque<type> children;	deque<type> hobbies;	string husband;	string wife;
